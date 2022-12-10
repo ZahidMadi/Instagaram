@@ -1,0 +1,145 @@
+[
+    {
+        "id": 0,
+        "name": "Vladimir Putin",
+        "namee": "Origial account",
+        "pic": "/img/Vladimir Putin.jpeg",
+        "profession": "Politician",
+        "des": "Vladimir Vladimirovich Putin (born 7 October 1952) is a Russian politician and former intelligence officer who has held office as president of Russia since 2012, having previously done so between 2000 and 2008.",
+        "posts": [
+            {
+                "picc": "/img/Vladimir Putin 1.jpeg" 
+            },
+            {
+                "picc": "/img/Vladimir Putin 2.jpeg" 
+            },
+            {
+                "picc": "/img/Vladimir Putin 3.jpeg" 
+            },
+            {
+            }
+        ],
+        "message": [
+            {
+                "msg": "Hi Vladimir"
+            },
+            {
+                "msg": "I'm Vladimir Putin"
+            },
+            {
+                "msg": "Good Vladimir Putin"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Zahid Mehmood",
+        "namee": "Origial account",
+        "pic": "/img/ZahidMehmood.jpeg",
+        "profession": "Software Engineer",
+        "des": "Front end developer with HTML5, CSS3, Bootstrap, SASS, Javascript, React Js.",
+        "posts": [
+            {
+                "picc": "/img/ZahidMehmood.jpeg" 
+            }
+        ],
+        "message": [
+            {
+                "msg": "Hello Zahid"
+            },
+            {
+                "msg": "I'm Zahid"
+            },
+            {
+                "msg": "Good Zahid"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Shahbaz Sharif",
+        "namee": "Origial account",
+        "pic": "/img/Charry blossam.jpeg",
+        "profession": "Politician",
+        "des": "Mian Muhammad Shehbaz Sharif is a Pakistani politician and businessman who is currently serving as the 23rd Prime Minister of Pakistan, in office since 11 April 2022. He is the current president of the Pakistan Muslim League. LETS DESTORY THE PAKISTANI ECONOMY TOGETHER.",
+        "posts": [
+            {
+                "picc": "/img/Charry blossam.jpeg"
+            },
+            {
+                "picc": "/img/art.jpeg"
+            },
+            {
+                "picc": "/img/art1.jpeg"
+            }
+        ],
+        "message": [
+            {
+                "msg": "Hey"
+            },
+            {
+                "msg": "I'm Shahbaz Sharif"
+            },
+            {
+                "msg": "Good Shahbaz Sharif"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Atif Aslam",
+        "namee": "Origial account",
+        "pic": "/img/atif.jpeg",
+        "profession": "Singer",
+        "des": "Atif Aslam was born on 12 March 1983, into a Punjabi Muslim family in Wazirabad, Pakistan. He went to Kimberley Hall School in Lahore until 1991, when he moved to Rawalpindi, and continued his studies at St. Paul's Cambridge School in Satellite Town.",
+        "posts": [
+            {
+                "picc": "/img/atif.jpeg"
+            },
+            {
+                "picc": "/img/atif1.jpeg"
+            }
+        ],
+        "message": [
+            {
+                "msg": "Hey..men"
+            },
+            {
+                "msg": "I'm Atif Aslam"
+            },
+            {
+                "msg": "Good Atif Aslam"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Alion Musk",
+        "namee": "Origial account",
+        "pic": "/img/alion.jpeg",
+        "profession": "Singer",
+        "des": "Elon Reeve Musk FRS is a business magnate and investor. He is the founder, CEO and chief engineer of SpaceX; angel investor, CEO and product architect of Tesla, Inc.; founder of The Boring Company; co-founder of Neuralink and OpenAI; president of the Musk Foundation; and owner and CEO of Twitter.",
+        "posts": [
+            {
+                "picc": "/img/alion.jpeg"
+            },
+            {
+                "picc": "/img/alion1.jpeg"
+            },
+            {
+                "picc": "/img/alion2.jpeg"
+            }
+        ],
+        "message": [
+            {
+                "msg": "Hey..men"
+            },
+            {
+                "msg": "I'm Elon Mask"
+            },
+            {
+                "msg": "Good Elon Mask"
+            }
+        ]
+    }
+]

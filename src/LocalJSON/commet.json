@@ -1,0 +1,254 @@
+[
+    {
+        "post_id": 0,
+        "comments": [
+
+            {
+                "user_id": 1,
+                "msg": "I'm Zahid Mehmood, I heard about your Sotfware house from ArhamSoft! I would like to join your software house please check my cv in your dm",
+                "pic": "/img/ZahidMehmood.jpeg",
+                "user_name":"Zahid Mehmood"
+            },
+
+            {
+                "user_id": 2,
+                "msg": "I'm Nawaz Sharid, For free currption guidness please reach out in my dms",
+                "pic": "/img/NawazFart.jpeg",
+                "user_name":"Nawaz Sharif"
+            },
+
+            {
+                "user_id": 3,
+                "msg": "I'm Shahbaz Sharids, I'm the brother of Nawaz Shreef and also a hero of pakistan that will provide releif funds to the pakistani flud people",
+                "pic": "/Img/Charry blossam.jpeg",
+                "user_name":"Shahbaz Sharif"
+            },
+
+            {
+                "user_id": 4,
+                "msg": "I'm Atif Aslam, I'm a buttiful singer",
+                "pic": "/img/atif.jpeg",
+                "user_name":"Atif Aslam"
+            },
+
+            {
+                "user_id": 5,
+                "msg": "I'm Elon Mask, And Mark my words AI will rule out the entire earth one day",
+                "pic": "/img/alion.jpeg",
+                "user_name":"Elon Mask"
+            }
+            
+        ]
+    },
+
+    {
+        "post_id": 1,
+        "comments": [
+
+            {
+                "user_id": 0,
+                "msg": "I'm Vladimir Putin, I would like to hire you in my software house ASAP!",
+                "pic": "/Img/Vladimir Putin.jpeg",
+                "user_name":"Vladimir Putin"
+            },
+
+            {
+                "user_id": 2,
+                "msg": "I'm Nawaz Sharid, I want to do currption in england and i need your help",
+                "pic": "/img/NawazFart.jpeg",
+                "user_name":"Nawaz Sharif"
+            },
+
+            {
+                "user_id": 3,
+                "msg": "I'm Shahbaz Sharid, Lets do some flud fund currption shall we?)",
+                "pic": "/Img/Charry blossam.jpeg",
+                "user_name":"Shahbaz Sharif"
+            },
+
+            {
+                "user_id": 4,
+                "msg": "I'm Atif Aslam and i love nawaz shareef",
+                "pic": "/img/atif.jpeg",
+                "user_name":"Atif Aslam"
+            },
+
+            {
+                "user_id": 5,
+                "msg": "I'm Elon Mask comment, Lets repopulate the earth",
+                "pic": "/img/alion.jpeg",
+                "user_name":"Elon Mask"
+            }
+            
+        ]
+    },
+
+    {
+        "post_id": 2,
+        "comments": [
+
+            {
+                "user_id": 0,
+                "msg": "I'm Vladimir Putin, I'm comming for you nawaz shareef you are in big trouble!",
+                "pic": "/Img/Vladimir Putin.jpeg",
+                "user_name":"Vladimir Putin"
+            },
+
+            {
+                "user_id": 2,
+                "msg": "I'm Nawaz Sharid",
+                "pic": "/img/NawazFart.jpeg",
+                "user_name":"Nawaz Sharif"
+            },
+
+            {
+                "user_id": 3,
+                "msg": "I'm Shahbaz Sharid",
+                "pic": "/Img/Charry blossam.jpeg",
+                "user_name":"Shahbaz Sharif"
+            },
+
+            {
+                "user_id": 4,
+                "msg": "I'm Atif Aslam",
+                "pic": "/img/atif.jpeg",
+                "user_name":"Atif Aslam"
+            },
+
+            {
+                "user_id": 5,
+                "msg": "I'm Elon Mask",
+                "pic": "/img/alion.jpeg",
+                "user_name":"Elon Mask"
+            }
+            
+        ]
+    },
+
+    {
+        "post_id": 3,
+        "comments": [
+
+            {
+                "user_id": 0,
+                "msg": "I'm Vladimir Putin, i Would like to smash your bum bum!",
+                "pic": "/Img/Vladimir Putin.jpeg",
+                "user_name":"Vladimir Putin"
+            },
+
+            {
+                "user_id": 1,
+                "msg": "I'm Zahid Mehmood",
+                "pic": "/img/ZahidMehmood.jpeg",
+                "user_name":"Zahid Mehmood"
+            },
+
+            {
+                "user_id": 2,
+                "msg": "I'm Nawaz Sharid",
+                "pic": "/img/NawazFart.jpeg",
+                "user_name":"Nawaz Sharif"
+            },
+
+            {
+                "user_id": 4,
+                "msg": "I'm Atif Aslam",
+                "pic": "/img/atif.jpeg",
+                "user_name":"Atif Aslam"
+            },
+
+            {
+                "user_id": 5,
+                "msg": "I'm Elon Mask comment",
+                "pic": "/img/alion.jpeg",
+                "user_name":"Elon Mask"
+            }
+            
+        ]
+    },
+    {
+        "post_id": 4,
+        "comments": [
+
+            {
+                "user_id": 0,
+                "msg": "I'm Vladimir Putin",
+                "pic": "/Img/Vladimir Putin.jpeg",
+                "user_name":"Vladimir Putin"
+            },
+
+            {
+                "user_id": 1,
+                "msg": "I'm Zahid Mehmood",
+                "pic": "/img/ZahidMehmood.jpeg",
+                "user_name":"Zahid Mehmood"
+            },
+
+            {
+                "user_id": 2,
+                "msg": "I'm Nawaz Sharid",
+                "pic": "/img/NawazFart.jpeg",
+                "user_name":"Nawaz Sharif"
+            },
+
+            {
+                "user_id": 3,
+                "msg": "I'm Shahbaz Sharif",
+                "pic": "/Img/Charry blossam.jpeg",
+                "user_name":"Shahbaz Sharif"
+            },
+
+            {
+                "user_id": 5,
+                "msg": "I'm Elon Mask comment",
+                "pic": "/img/alion.jpeg",
+                "user_name":"Elon Mask"
+            }
+            
+        ]
+    },
+
+    {
+        "post_id": 5,
+        "comments": [
+
+            {
+                "user_id": 0,
+                "msg": "I'm Vladimir Putin",
+                "pic": "/Img/Vladimir Putin.jpeg",
+                "user_name":"Vladimir Putin"
+            },
+
+            {
+                "user_id": 1,
+                "msg": "I'm Zahid Mehmood",
+                "pic": "/img/ZahidMehmood.jpeg",
+                "user_name":"Zahid Mehmood"
+            },
+
+            {
+                "user_id": 2,
+                "msg": "I'm Nawaz Sharid",
+                "pic": "/img/NawazFart.jpeg",
+                "user_name":"Nawaz Sharif"
+            },
+
+            {
+                "user_id": 3,
+                "msg": "I'm Shahbaz Sharif",
+                "pic": "/Img/Charry blossam.jpeg",
+                "user_name":"Shahbaz Sharif"
+            },
+
+            {
+                "user_id": 4,
+                "msg": "I'm Atif Aslam",
+                "pic": "/img/atif.jpeg",
+                "user_name":"Atif Aslam"
+            }
+            
+        ]
+    }
+
+  
+]
